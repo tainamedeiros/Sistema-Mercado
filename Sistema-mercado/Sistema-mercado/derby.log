@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 30 08:45:01 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-f8d1-8c14-000004b89950 
+on database directory C:\Users\Tainá\Desktop\TrabPoo\Sistema-mercado\Sistema-mercado\BancoDeDados with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/Tain%c3%a1/Desktop/TrabPoo/Sistema-mercado/Sistema-mercado/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\Tainá\Desktop\TrabPoo\Sistema-mercado\Sistema-mercado
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
